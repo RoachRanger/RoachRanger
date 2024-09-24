@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoachRanger
 - 👀 I’m interested in the fascinating world of entomology, specifically focusing on termites and cockroaches.
-- 🌱 I’m currently learning advanced data analysis techniques and bioinformatics to deepen my research into neuropeptides in Blattodea, termites and cockroaches.
+- 🌱 I’m currently learning advanced data analysis techniques and bioinformatics to deepen my research into neuropeptides in Blattodea.
 - 💞️ I’m looking to collaborate on a wider range of insects.
 - 📫 How to reach me? You can contact me via email at sxjiang02@outlook.com
 - 😄 Pronouns: He/Him.
